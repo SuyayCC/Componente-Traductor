@@ -27,7 +27,7 @@ Este proyecto es un traductor entre varios idiomas hecho en Java con interfaz gr
 
 Abre el proyecto con NetBeans o cualquier IDE compatible con Maven.
 
-Asegúrate de tener esta dependencia en el pom.xml:
+Asegúrate de tener esta dependencia en el pom.xml (JSON):
 
 xml
 Copiar
