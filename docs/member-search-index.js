@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ComponenteVisual","c":"Traductor","l":"Traductor()","u":"%3Cinit%3E()"}];updateSearchResults();
